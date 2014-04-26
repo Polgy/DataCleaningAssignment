@@ -70,4 +70,8 @@ These are used on the angle_ variable:
 * tBodyGyroMean
 * tBodyGyroJerkMean
 
+Assignment Data Sets
+--------------------
 
+Please refer to CodeBook documentation for description of the datasets that were
+created as a part of this assignment.
